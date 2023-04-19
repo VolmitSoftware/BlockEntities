@@ -1,0 +1,51 @@
+debug: true
+
+messages:
+  prefix: "&a&o&l[Block&b&o&lEntities] &7&o"
+
+  reloaded: Plugin settings has been reloaded
+  cantReload: You don't have permissions to reload the settings
+  cantGet: You don't have permissions to get a block
+  cantPlace: You don't have permissions to place this kind of blocks
+  cantBreak: You don't have permissions to break this kind of blocks
+  commandBlockMissing: Please, provide the name of the block you want to get
+  commandBlockNotExists: Give block name does not exists, please provide a valid one
+  commandNotPlayer: Only one player can execute this command
+
+blocks:
+  - key: crate1
+    displayName: "&b&oCrate1"
+    lore: []
+    customModelData: 1000
+  - key: crate2
+    displayName: "&b&oCrate2"
+    lore: []
+    customModelData: 1001
+  - key: crate3
+    displayName: "&b&oCrate3"
+    lore: []
+    customModelData: 1002
+  - key: crate4
+    displayName: "&b&oCrate4"
+    lore: []
+    customModelData: 1003
+  - key: crate5
+    displayName: "&b&oCrate5"
+    lore: []
+    customModelData: 1004
+  - key: crate6
+    displayName: "&b&oCrate6"
+    lore: []
+    customModelData: 1005
+  - key: crate7
+    displayName: "&b&oCrate7"
+    lore: []
+    customModelData: 1006
+  - key: crate8
+    displayName: "&b&oCrate8"
+    lore: []
+    customModelData: 1007
+  - key: crate9
+    displayName: "&b&oCrate9"
+    lore: []
+    customModelData: 1008

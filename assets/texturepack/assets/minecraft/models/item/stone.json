@@ -1,0 +1,14 @@
+{
+    "parent": "minecraft:block/stone",
+    "overrides": [
+        { "predicate": { "custom_model_data": 1000 }, "model": "blockentities:item/crate1" },
+        { "predicate": { "custom_model_data": 1001 }, "model": "blockentities:item/crate2" },
+        { "predicate": { "custom_model_data": 1002 }, "model": "blockentities:item/crate3" },
+        { "predicate": { "custom_model_data": 1003 }, "model": "blockentities:item/crate4" },
+        { "predicate": { "custom_model_data": 1004 }, "model": "blockentities:item/crate5" },
+        { "predicate": { "custom_model_data": 1005 }, "model": "blockentities:item/crate6" },
+        { "predicate": { "custom_model_data": 1006 }, "model": "blockentities:item/crate7" },
+        { "predicate": { "custom_model_data": 1007 }, "model": "blockentities:item/crate8" },
+        { "predicate": { "custom_model_data": 1008 }, "model": "blockentities:item/crate9" }
+    ]
+}

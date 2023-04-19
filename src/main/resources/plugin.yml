@@ -1,0 +1,26 @@
+name: BlockEntities
+version: '${version}'
+main: com.volmit.blockentities.BlockEntities
+api-version: 1.19
+load: STARTUP
+
+commands:
+  blockentities:
+    description: Base command
+    aliases:
+      - be
+    usage: /be help
+
+permissions:
+  be.reload:
+    description: Allows to execute the reload command
+    default: false
+  be.get:
+    description: Allows to use the get command to the players
+    default: false
+  be.place:
+    description: Allows to place blocks to the players
+    default: false
+  be.break:
+    description: Allows to break blocks to the players
+    default: false
